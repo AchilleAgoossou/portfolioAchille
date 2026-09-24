@@ -1,0 +1,21 @@
+# Variables d'environnement (jamais versionnées)
+.env
+CLAUDE.md
+robots.txt
+.env.*
+!.env.example
+
+# Dépendances / outils
+node_modules/
+.sass-cache/
+*.css.map
+
+# Systeme
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editeurs
+.vscode/
+.idea/
+*.swp
